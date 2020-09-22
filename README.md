@@ -1,6 +1,6 @@
 # tictionary
 
-A dictionary app
+A dictionary app(called tictionary)
 
 ## Getting Started
 
